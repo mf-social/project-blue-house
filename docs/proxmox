@@ -55,8 +55,6 @@ Source: pve-nag-script
 
 INSTRUCTIONS...
 
-Next up we need to add the 'free' repositories for our updates.  To do this....
-
-INSTRUCTIONS...
+This script will also ensure that we can download updates from the 'free' proxmox repositroy, which was not configured by default.
 
 Now we'll make sure Proxmox is up to date, by pressing 
