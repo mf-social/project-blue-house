@@ -36,7 +36,7 @@ Add a reasonably strong password to the next page.  This will be your root passw
 
 ![proxmox password](../images/proxmox_password.jpg)
 
-On the next page you configure the network.  The top box let's you choose your main network interface if you have more than one.  The second box is the name you choose for your **grey house**, I've used 'greyhouse' and then add .local to the end (greyhouse.local).  The third one is the IP address you want your **grey house** to have, pick one that's free on your network.  The fourth box is your netmask, if you don't know what this is 255.255.255.0 will probably do you.  The fifth box is the IP address of your gateway (usually your router).  And finally your DNS server, you can leave this the same as your router if you don't have a seperate DNS.  DON'T USE 127.0.0.1 LIKE THE SCREENSHOT!!!  Press next.
+On the next page you configure the network.  The top box let's you choose your main network interface if you have more than one.  The second box is the name you choose for your **grey house**, I've used 'greyhouse' and then add .local to the end (greyhouse.local).  The third one is the IP address you want your **grey house** to have, pick one that's free on your network.  The fourth box is your netmask, if you don't know what this is 255.255.255.0 will probably do you.  The fifth box is the IP address of your gateway (usually your router).  And finally your DNS server, you can leave this the same as your gateway (router) if you don't have a seperate DNS.  DON'T USE 127.0.0.1 LIKE THE SCREENSHOTS!!!  Press next.
 
 ![proxmox network](../images/proxmox_network.jpg)
 
