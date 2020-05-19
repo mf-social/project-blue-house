@@ -32,7 +32,7 @@ If you choose to dedicate your whole **host** to homeassistant and you are happy
 
 ## A Homelab installation
 
-If you have a decent spec **host** (like a NUC) and/or you just don't want to dedicate all that computing to just one thing, even if you're not sure what else you might do with it, then go for the virtualised install.  You will simply end up with your **blue house** on a **VM** on your **host**, rather than directly on it.  As far as the rest of your network (or even the rest of the world!) is concerned your **blue house** is on its own computer regardless.  There is NO DIFFERENCE in the end productt of homeassistant that you will get from either install method.
+If you have a decent spec **host** (like a NUC) and/or you just don't want to dedicate all that computing to just one thing, even if you're not sure what else you might do with it, then go for the virtualised install.  You will simply end up with your **blue house** on a **VM** on your **host**, rather than directly on it.  As far as the rest of your network (or even the rest of the world!) is concerned your **blue house** is on its own computer regardless.  There is NO DIFFERENCE in the end product of homeassistant that you will get from either install method.
 
 Of course this is better, because:
 
