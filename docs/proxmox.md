@@ -1,4 +1,4 @@
-# Installing proxmox to create your 'Grey House'
+# Install and configure proxmox to create your 'Grey House'
 
 ## Installing
 
