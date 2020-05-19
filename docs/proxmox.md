@@ -20,7 +20,7 @@ The system boots from your USB stick and presents you with the installation menu
 
 ![proxmox eula](../images/proxmox_eula.jpg)
 
-Accept the EULA by pressing 'next' in the bottom right hand corner of the screen.  (At this point I'm just going to apologise for the screenshots - in order to write this guide I plugged a spare computer in to my main TV and just took photos with my phone.  You'll also notice that the window doesn't quite fit the display and the buttons are disapearing of fthe bottom!  It should be good enough for you to get the gist, screenshots on other pages are actual proper screenshots from working instances)
+Accept the EULA by pressing 'next' in the bottom right hand corner of the screen.  (At this point I'm just going to apologise for the screenshots - in order to write this guide I plugged a spare computer in to my main TV and just took photos with my phone.  You'll also notice that the window doesn't quite fit the display and the buttons are disapearing off the bottom!  It should be good enough for you to get the gist, screenshots on other pages are actual proper screenshots from working instances!).
 
 The next page allows you to select which hard disk to install to.  Press next.
 
