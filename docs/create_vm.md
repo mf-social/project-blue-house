@@ -23,8 +23,14 @@ Note: If this is not your first **VM** and you are happy you have the latest ver
  - Press 'Select file'
  - Upload your Debian ISO
  
-~~~ Screenshot ~~~
+ (Screenshot of upload screen here)
  
 
 # Create a new VM
 
+(Steps to get create the VM here with step-by-step screenshots)
+(Get up to the point of starting the VM and pressing the console button to see the install menu...)
+
+![debian install menu](../images/debian_install.png)
+
+Now continue with the 'Creating a Debian base instructions'...
