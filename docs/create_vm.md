@@ -5,7 +5,7 @@ This page is to explain the process of generating the VM and getting to the poin
 
 ## Get Debian
 
-Project: Blue House uses Debian because it has good package management and is easy to set up as a headless server. It is a tried and tested method.
+**Project: Blue House** uses Debian because it has good package management and is easy to set up as a headless server. It is a tried and tested method.
 
  - If this is your first **VM** Download the latest minimal Debian ISO from [here](https://www.debian.org/distrib/netinst) - get the AMD64 version.
  - If this is not your first **VM** you only need to check if the one you already have is up-to-date.
