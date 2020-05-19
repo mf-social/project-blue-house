@@ -1,6 +1,6 @@
 # Install and configure proxmox to create your 'Grey House'
 
-# Get Debian
+## Get Proxmox
 
 **Project: Blue House** uses Proxmox because it is based on Debian, has great UI management and make Virtualisation really easy.  It is a tried and tested method.  Download the latest Proxmox ISO from [here](https://proxmox.com/en/downloads/category/iso-images-pve).
 
