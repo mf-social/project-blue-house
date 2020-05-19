@@ -9,7 +9,7 @@ A virtual machine is defined as a computer file, typically called an image, that
 
 As you install computers on your network, many people name them.  You can come up with any naming scheme you like.  Some people use planets or characters from film franchises.  I like to use random references from sci-fi, for example the computer I used to spin up a proxmox installation procedure so I could take some photos of the screens is called 'The Lifeboat' after the time machine from Timeless.
 
-For the purpose of knowing which machine is throughout this repo I decided to name the computers/**VMs** in this guide after colours.  So in the guide, a **host** or **VM** with homeassistant on it will be called **blue house**.  If you go the virtualisation route and build a whole homelab you will have a **grey house** (proxmox) on your **host**, and then VMs for **blue house** (home assistant), **red house** (nginx), etc...
+For the purpose of knowing which machine is which throughout this repo I decided to name the computers/**VMs** in this guide after colours.  So in the guide, a **host** or **VM** with homeassistant on it will be called **blue house**.  If you go the virtualisation route and build a whole homelab you will have a **grey house** (proxmox) on your **host**, and then VMs for **blue house** (home assistant), **red house** (nginx), etc...
 
 You can either name your **host** and **VMs** the same, or simply substitute the coloured house for the name of your 'machine'.
 
