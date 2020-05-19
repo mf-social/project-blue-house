@@ -60,8 +60,6 @@ You can now disconnect the keyboard, mouse and monitor from the **host**.  Wait 
 
 Type 'root' in to the username box and the password you set during installation in to the password box to login to your Proxmox webUI.  The first thing you'll see is a warning that you don't have an active subscription.  You should consider subscribing to one of the lower teir plans, but if you do not want to you can continue using proxmox for free.  Unfortunately if you do not have a subscription without a minor modification the warning will appear every time you login, so lets use a script that removes it and keeps it removed. 
 
-Source: [pve-nag-script](https://github.com/foundObjects/pve-nag-buster)
-
 Press on the name of your **grey house** node in the tree on the left (under 'Datacentre'), and then in the top right press the 'shell' button.  This is a root shell, be careful to only use this when neccessary (which won't be very often at all!).
 
 Type:
@@ -74,7 +72,9 @@ chmod +x install.sh && ./install.sh
 
 This script will also ensure that we can download updates from the 'free' proxmox repositroy, which was not configured by default.
 
-Type 'exit' to close the terminal connection and shut the window.  Normally when working in the terminal we avoid root, but with proxmox we only use the root login.  This is basically because nearly everything you do on proxmox requires root privelege, and as we won't be exposing our **grey house** server directly to the internet, and everything that we do on this server will be virtualised, the only real 'attack vector' for your **grey house** is if someone is in your house, at which point having a root login is the last of your worries.  On all of our VM's we will be disabling the root account and using elevated permissions only when we require them.
+Source: [pve-nag-script](https://github.com/foundObjects/pve-nag-buster)
+
+Type 'exit' to close the terminal connection and shut the window.  Normally when working in the terminal we avoid root, but with proxmox we only use the root login.  This is basically because nearly everything you do on proxmox requires root privelege, and as we won't be exposing our **grey house** server directly to the internet, and everything that we do on this server will be virtualised, the only real 'attack vector' for your **grey house** is if someone is in your house, at which point having a root login is the last of your worries.  On all of our **VM's** we will be disabling the root account and using elevated permissions only when we require them.
 
 Now we'll make sure Proxmox is up to date, by pressing on the name of your **grey house** node in the tree on the left (under 'Datacentre'), and then updates in the menu.  You can press the refresh button on the top bar to check for updates, and if there are updates you can press the upgrade button on the top bar to install them.
 
