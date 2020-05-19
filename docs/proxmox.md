@@ -30,11 +30,11 @@ Start typing your country in to the top box and select yours when it is short-li
 
 ![proxmox region](../images/proxmox_region.jpg)
 
-Add a reasonably strong password to the next page.  This will be your root password for your **grey-house** and will be the only line of defense for preventing people accessing your whole system so it wants to be secure, but also something you will not forget and can type relatively easily.  More on why we just use root on proxmox later.  Press next.
+Add a reasonably strong password to the next page.  This will be your root password for your **grey house** and will be the only line of defense for preventing people accessing your whole system so it wants to be secure, but also something you will not forget and can type relatively easily.  More on why we just use root on proxmox later.  Press next.
 
 ![proxmox password](../images/proxmox_password.jpg)
 
-On the next page you configure the network.  The top box let's you choose your main network interfacce if you have more than one.  The second box is the name you choose for your **grey-house**, I've used 'greyhouse' and then add .local to the end (greyhouse.local).  The third one is the IP address you want your **grey-house** to have, pick one that's free on your network.  The fourth box is your netmask, if you don't know what this is 255.255.255.0 will probably do you.  The fifth box is the IP address of your gateway (usually your router).  And finally your DNS server, you can leave this at 127.0.0.1 for now.  Press next.
+On the next page you configure the network.  The top box let's you choose your main network interfacce if you have more than one.  The second box is the name you choose for your **grey house**, I've used 'greyhouse' and then add .local to the end (greyhouse.local).  The third one is the IP address you want your **grey house** to have, pick one that's free on your network.  The fourth box is your netmask, if you don't know what this is 255.255.255.0 will probably do you.  The fifth box is the IP address of your gateway (usually your router).  And finally your DNS server, you can leave this at 127.0.0.1 for now.  Press next.
 
 ![proxmox network](../images/proxmox_network.jpg)
 
@@ -44,7 +44,7 @@ Quick double check of the summary for any glaring errors and press install.
 
 After a while it will be installed and you'll press reboot.  As it reboots, catch it and go back in to your **host's** BIOS.  Disable boot from USB, and move the UEFI entry for proxmox to the primary boot device.  Save and exit.
 
-You can now disconnect the keyboard, mouse and monitor from the **host**.  Wait a few minutes and access the Proxmox webUI from your laptop by typing your **grey-house's** ip address in to the address bar and adding port 800s (eg. http://10.0.0.99:8006 )
+You can now disconnect the keyboard, mouse and monitor from the **host**.  Wait a few minutes and access the Proxmox webUI from your laptop by typing your **grey house's** ip address in to the address bar and adding port 8006 (eg. http://10.0.0.99:8006 )
 
 
 ## Configuring
