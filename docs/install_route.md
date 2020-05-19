@@ -5,7 +5,7 @@ Understanding which route you will take to create your **Project: Blue House** i
 
 ## Understanding Virtualisation (and the coloured house nomenclature)
 
-A virtual machine is defined as a computer file, typically called an image, that behaves like an actual computer.  If you had 3 **VMs** running on one physical computer then ran a network scan, you would see 4 computers.  They are, quite literally, a computer within a computer.  They get their own IP address, they have there own (allocated) processing power and memory.
+A virtual machine is defined as a computer file, typically called an image, that behaves like an actual computer.  If you had 3 **VMs** running on one physical computer then ran a network scan, you would see 4 computers.  They are, quite literally, a computer within a computer.  They get their own IP address, they have their own (allocated) processing power and memory.
 
 As you install computers on your network, many people name them.  You can come up with any naming scheme you like.  Some people use planets or characters from film franchises.  I like to use random references from sci-fi, for example the computer I used to spin up a proxmox installation procedure so I could take some photos of the screens is called 'The Lifeboat' after the time machine from Timeless.
 
