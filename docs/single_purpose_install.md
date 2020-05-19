@@ -24,6 +24,6 @@ Ensure that the options are selected to enable booting from USB (above), and tha
 
 The system boots from your USB stick and presents you with the installation menu...
 
-![debian install menu](../images/debian_install.jpg)
+![debian install menu](../images/debian_install.png)
 
 Now continue with the 'Basic Debian Installation Instructions'...
