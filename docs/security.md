@@ -37,17 +37,17 @@ A strong password is one that's easy for you to remember but difficult for other
  - Avoid using words that can be found in the dictionary. For example, swimming1 would be a weak password.
  - Random passwords are the strongest. If you're having trouble creating one, you can use a password generator instead.
  
-Source: [GCF Global - creating string passwords](https://edu.gcfglobal.org/en/internetsafety/creating-strong-passwords/1/)
+Source: [GCF Global - creating strong passwords](https://edu.gcfglobal.org/en/internetsafety/creating-strong-passwords/1/)
  
  
 ## Understanding shared keys
  
-Shared keys are a matching set of cryptographic keys which can be used for authentication. Each set contains a public and a private key. The public key can be shared freely without concern, while the private key must not be exposed to anyone.  These keys can then be used to encrypt and decrypt data, or used to authenticate the sender of a message.  In the case of a homelab the most common place for shared keys is in SSH.  When using Putty we will create a key on our **laptop** that we can use to authenticate when we log in to the other computers we want to speak to, meaning that only you have access.  There are some similarities with 2FA, where Authy and a website pre-share the QR code, and without the QR code nobody can generate the 6 digit numer and login.
+Shared keys are a matching set of cryptographic keys that can be used for authentication. Each set contains a public and a private key. The public key can be shared freely without concern, while the private key must not be exposed to anyone.  These keys can then be used to encrypt and decrypt data, or used to authenticate the sender of a message.  In the case of a homelab the most common place for shared keys is in SSH.  When using Putty we will create a key on our **laptop** that we can use to authenticate when we log in to the other computers we want to speak to, meaning that only you have access.  There are some similarities with 2FA, where Authy and a website pre-share the QR code, and without the QR code nobody can generate the 6 digit numer and login.
  
  
 ## Understanding port forwarding
  
-Port forwarding allows remote computers (for example, computers on the Internet) to connect to a specific computer or service within a private local-area network (LAN).[3]
+Port forwarding allows remote computers (for example, computers on the Internet) to connect to a specific computer or service within a private local-area network (LAN).
 
 In a typical residential network, nodes obtain Internet access through a DSL or cable modem connected to a router or network address translator (NAT/NAPT). Hosts on the private network are connected to an Ethernet switch or communicate via a wireless LAN. The NAT device's external interface is configured with a public IP address. The computers behind the router, on the other hand, are invisible to hosts on the Internet as they each communicate only with a private IP address.
 
@@ -61,7 +61,7 @@ root is the user name or account that by default has access to all commands and 
 
 Source: [Linfo - root definition](http://www.linfo.org/root.html)
 
-sudo is a program for Unix-like computer operating systems that allows users to run programs with the security privileges of another user, by default the superuser.[6] It originally stood for "superuser do"[7] as the older versions of sudo were designed to run commands only as the superuser. However, the later versions added support for running commands not only as the superuser but also as other (restricted) users, and thus it is also commonly expanded as "substitute user do".[8][9] Although the latter case reflects its current functionality more accurately, sudo is still often called "superuser do" since it is so often used for administrative tasks.
+sudo is a program for Unix-like computer operating systems that allows users to run programs with the security privileges of another user, by default the superuser. It originally stood for "superuser do" as the older versions of sudo were designed to run commands only as the superuser. However, the later versions added support for running commands not only as the superuser but also as other (restricted) users, and thus it is also commonly expanded as "substitute user do". Although the latter case reflects its current functionality more accurately, sudo is still often called "superuser do" since it is so often used for administrative tasks.
 
 Source: [Wikipedia - sudo](https://en.wikipedia.org/wiki/Sudo)
 
