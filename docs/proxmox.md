@@ -57,4 +57,8 @@ INSTRUCTIONS...
 
 This script will also ensure that we can download updates from the 'free' proxmox repositroy, which was not configured by default.
 
-Now we'll make sure Proxmox is up to date, by pressing 
+Type 'exit' to close the terminal connection and shut the window.
+
+Now we'll make sure Proxmox is up to date, by pressing on the name of the node in the tree on the left (under 'Datacentre'), and then updates in the menu.  You can press the refresh button on the top bar to check for updates, and if there are updates you can press the upgrade button on the top bar to install them.
+
+Your Proxmox server is now ready to add some VMs.
