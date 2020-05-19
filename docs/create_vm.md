@@ -1,6 +1,6 @@
 # Creating a Debian VM in proxmox
 
-This page is to explain the process of generating the VM and getting to the point of installing and configuring the Debian
+This page is to explain the process of generating the VM and getting to the point of installing and configuring Debian
 
 
 ## Get Debian
