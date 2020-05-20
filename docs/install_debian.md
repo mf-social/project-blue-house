@@ -1,6 +1,6 @@
-# This page explains installing debian and logging in for the first time
+# This page explains installing debian beforelogging in for the first time
 
-This is the first part of creating your base system.  After this we will secure the logins and install docker and docker-compose.
+This is the first part (1 of 3) of creating your base system.  After this we will secure the logins and install docker and docker-compose.
 
 ## Installing
 
