@@ -56,7 +56,7 @@ Leave the network settings as they defaulted to.
 
 ![proxmox create vm 7](../images/proxmox_create_7.png)
 
-Click finish.
+Check the 'Start after created' box and press finish.
 
 Watch your Proxmox WebUI for a few moments and you will see your new **VM** spring to life (a little green 'play' symbol will appear next to it in the tree).  Now ensure that your new **VM** is selected in the tree and press the Console button in the top panel.
 
