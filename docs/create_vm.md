@@ -32,22 +32,35 @@ Ensure your **grey house** node is selected in the tree on the left (under 'Data
 
 ![proxmox create vm 1](../images/proxmox_create_1.png)
 
+Type a name for your **VM** in the 'name' box and select the 'Start at boot' checkbox.
+
 ![proxmox create vm 2](../images/proxmox_create_2.png)
+
+Select your Debian ISO from the dropbox.
 
 ![proxmox create vm 3](../images/proxmox_create_3.png)
 
+Set the size you want your **VM's** hard drive to be.
+
 ![proxmox create vm 4](../images/proxmox_create_4.png)
+
+Set how much processing power you want to allocate to the **VM**
 
 ![proxmox create vm 5](../images/proxmox_create_5.png)
 
+...and the amount of RAM.
+
 ![proxmox create vm 6](../images/proxmox_create_6.png)
+
+Leave the network settings as they defaulted to.
 
 ![proxmox create vm 7](../images/proxmox_create_7.png)
 
+Click finish.
 
+Watch your Proxmox WebUI for a few moments and you will see your new **VM** spring to life (a little green 'play' symbol will appear next to it in the tree).  Now ensure that your new **VM** is selected in the tree and press the Console button in the top panel.
 
-
-
+Your new **VM's** 'monitor' now appears in a window and you find yourself at the Debian install menu...
 
 ![debian install menu](../images/debian_install.png)
 
