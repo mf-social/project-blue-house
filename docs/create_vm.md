@@ -23,13 +23,31 @@ Note: If this is not your first **VM** and you are happy you have the latest ver
  - Press 'Select file'
  - Upload your Debian ISO
  
- (Screenshot of upload screen here)
+ ![proxmox upload iso](../images/proxmox_upload_iso.png)
  
 
 # Create a new VM
 
-(Steps to get create the VM here with step-by-step screenshots)
-(Get up to the point of starting the VM and pressing the console button to see the install menu...)
+Ensure your **grey house** node is selected in the tree on the left (under 'Datacentre') and press 'Create VM' in the top bar.  If not already done, check the 'Advanced' check box at the bottom of the new window.
+
+![proxmox create vm 1](../images/proxmox_create_1)
+
+![proxmox create vm 2](../images/proxmox_create_2)
+
+![proxmox create vm 3](../images/proxmox_create_3)
+
+![proxmox create vm 4](../images/proxmox_create_4)
+
+![proxmox create vm 5](../images/proxmox_create_5)
+
+![proxmox create vm 6](../images/proxmox_create_6)
+
+![proxmox create vm 7](../images/proxmox_create_7)
+
+
+
+
+
 
 ![debian install menu](../images/debian_install.png)
 
