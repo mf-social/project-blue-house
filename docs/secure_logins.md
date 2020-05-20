@@ -45,11 +45,11 @@ sudo usermod -p '!' root
 
 Your screen should now look like this...
 
-![root disabled](..images/root_diabled.png)
+![root disabled](../images/root_diabled.png)
 
 Type 'exit' and press enter to logout.  You now should not be able to login as root...
 
-![root login denied](..images/root_login_denied.png)
+![root login denied](../images/root_login_denied.png)
 
 Now we're going to drop back to configuring things remotely from our **laptop** - if you're in a **VM** simply close the Console window.  If you're running Debian directly on the **host** (Single Purpose Install) then you can disconntect your monitor, keyboard and mouse now.
 
@@ -57,7 +57,7 @@ Now we're going to drop back to configuring things remotely from our **laptop** 
 
 Using your networking scanning tool on your **mobile** see what IP address your machine has been allocated..
 
-![fing screenshot](..images/fing.jpg)
+![fing screenshot](../images/fing.jpg)
 
 Open Putty on your laptop and type the IP address in to the main bar and press Open.
 
