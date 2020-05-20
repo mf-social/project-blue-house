@@ -45,7 +45,7 @@ sudo usermod -p '!' root
 
 Your screen should now look like this...
 
-![root disabled](..images/root_disabled.png)
+![root disabled](..images/root_diabled.png)
 
 Type 'exit' and press enter to logout.  You now should not be able to login as root...
 
