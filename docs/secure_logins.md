@@ -90,7 +90,13 @@ Now go back to PuttyGen and enter a passphrase for your private key file.  Press
 
 ![save private key](../images/save_private_key.png)
 
+
+# Configure Pageant
+
+Now that we have set up the ssh key on your Debian machine, we now set up Pageant to load the keys on our **laptop** so it can authorise us when we login.
 (Set Up Pageant)
+
+(Test login with key)
 
 (Disable password logins)
 
