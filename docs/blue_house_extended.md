@@ -20,6 +20,8 @@ We're going to set things up to be as secure as we can, but there are inherent r
 
 ## NGINX configuration
 
+pre . and 404
+
 ## Securing the services you expose
 
  - Homeassistant
