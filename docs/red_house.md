@@ -23,3 +23,4 @@ Pre . and 404
 ## Securing the services you expose
 
  - Homeassistant
+ -> Security revisited
