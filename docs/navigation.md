@@ -2,18 +2,17 @@ Navigation thoughts..
 
 ```
 Readme / index > contents > link to everything
-               > Introduction > Security > internal access > Install route > Single Purpose Install&
-                                                                           > Proxmox*
+               > Introduction > Security > internal access > Install route > Single Purpose Install (&) > #
+                                                                           > Proxmox (*) > Create VM > Trust cert > VM config > #
             
             
-& install debian > secure logins > install docker > blue house > &&
+# install debian > secure logins > install docker > blue house > &
+                                                               > *
 
-* install debian > secure logins > install docker > blue house >**
 
+& blue house extended > external_access.md > security_revisited.md > $
 
-&& blue house extended > external_access.md > security_revisited.md > $
-
-** blue house extended > external_access.md > security_revisited.md > yellow_house.md > the_street.md $
+* red house > external_access.md > security_revisited.md > yellow_house.md > the_street.md $
 
             
             
