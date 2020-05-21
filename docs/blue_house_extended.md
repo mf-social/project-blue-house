@@ -14,6 +14,8 @@ We're going to set things up to be as secure as we can, but there are inherent r
 
 ## Docker-compose
 
+(nginx, duckdns, vpn)
+
 ## Homeassistant configuration
 
 ## NGINX configuration
