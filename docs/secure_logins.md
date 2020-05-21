@@ -132,7 +132,7 @@ See the following two screenshots...
 
 ![ssh secure 1](../images/ssh_secure_1.png)
 
-![ssh secure 1](../images/ssh_secure_1.png)
+![ssh secure 2](../images/ssh_secure_2.png)
 
 Press ctrl+O to write the changes, enter to confirm, and ctrl+x to exit the editor.
 
