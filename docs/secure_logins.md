@@ -2,6 +2,8 @@
 
 This is presumed to be on a fresh install having just come from the 'Installing Debian' page.  This is part 2 of 3 of installing and configuring your 'base system'.
 
+That said, you can probably use this guide to secure logins on any debian based machine, just be careful in case you have already set something up that would be affected by these changes.
+
 ## Configure sudo
 
 At this point you should be staring at the login prompt for a fresh install, where you set up a root user with a password and a 'control' user with a password.  We will use that user for pretty much everything, but first we have to set up sudo so that we can use elevated priveleges when we need to, so first we must login as root.  Type 'root' at the login and press enter, then type your password (nothing will appear on the screen as you type - that's normal!) and press enter.
