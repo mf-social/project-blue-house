@@ -83,3 +83,16 @@ Now we'll make sure Proxmox is up to date, by pressing on the name of your **gre
 ![proxmox_update](../images/proxmox_update.png)
 
 Your Proxmox server is now ready to add some VMs.
+
+## Some things to know..
+
+(Trust cert ->)
+(Passing through hardware ->)
+
+## Lets add some VMs
+
+(Blue House)
+(Red House)
+(Yellow House)
+
+What other houses are you going to add to your street? ->
