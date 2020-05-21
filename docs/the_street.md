@@ -6,5 +6,6 @@ You've created a homelab!  You have a **grey house** server that is hosting your
 
 Nextcloud
 Plex
+kiwix
 blah
 blah
