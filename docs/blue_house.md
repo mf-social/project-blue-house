@@ -6,6 +6,7 @@ The **Blue house** is the docker stack for running Homeassistant.
 
 ## Docker-compose
 
+(homeassistant, mariadb, mqtt)
 
 
 ## Homeassistant configuration
