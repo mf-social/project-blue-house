@@ -53,6 +53,8 @@ After a while it will be installed and you'll press reboot.  As it reboots, catc
 
 You can now disconnect the keyboard, mouse and monitor from the **host**.  Wait a few minutes and access the Proxmox webUI from your laptop by typing your **grey house's** ip address in to the address bar and adding port 8006 (eg. http://10.0.0.99:8006 )
 
+Note that you will be presented with a 'Certificate error' that you will have to 'proceed' past to get to the WebUI.  This is not because your new install is insecure, it is because it is using a self-signed certificate that your browser doesn't know it can trust.
+
 
 ## Configuring
 
