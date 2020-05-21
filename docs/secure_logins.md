@@ -67,7 +67,7 @@ A new window opens (accept the warning, this will only apear once) that is a ter
 
 ![password login](../images/password_login.png)
 
-As discussed in the 'Security' page we are going to disable password logins by SSH and create a shared key which we will store on our **laptop**  Only your **laptop** will be able to connect via SSH in the future.  The only way to login with a password is to have physical access to the machine.  As per the screenshot, first we create the file to store the shared key in...
+As discussed in the 'Security' page we are going to disable password logins by SSH and create a shared key which we will store on our **laptop**. Only your **laptop** will be able to connect via SSH in the future.  The only way to login with a password is to have physical access to the machine.  As per the screenshot, first we create the file to store the shared key in...
 
 ```
 mkdir .ssh
