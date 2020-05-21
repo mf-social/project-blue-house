@@ -28,6 +28,12 @@ This page is to discuss the types of access you may wish to set up so that you c
 
 (Possible workarounds)
 
+## Virtual Private Server tunneling
+
+(What is it)
+
+(why would you use it)
+
 ## Homeassistant cloud
 
 (What is it)
